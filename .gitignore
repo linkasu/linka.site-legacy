@@ -1,0 +1,17 @@
+.DS_Store
+*.log
+dist/
+.env
+.env.*
+*.key
+*.pem
+*.crt
+*.sql
+*.sql.gz
+*.dump
+*.tar
+*.tar.gz
+backups/
+remote/
+tmp/
+wp-config.php
